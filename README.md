@@ -1,6 +1,9 @@
 # Suzukikasmi
 The Suzuki-Kasami algorithm is a token-based algorithm for achieving mutual exclusion in distributed systems.  
 
+Name: Jayashree G Math
+BITS ID:2017HT12477
+
 This program is implemented using turbo C++ software 
 
 ---------------------- 
